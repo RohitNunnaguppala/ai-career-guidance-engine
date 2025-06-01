@@ -82,7 +82,7 @@ Navigate to `http://localhost:3000` to see the application.
 *Modern, responsive landing page showcasing platform features and benefits*
 
 ### 2. Assessment Overview
-![Assessment Overview](screenshots/assessment-overview.png)
+![Assessment Overview](assests/overview.png)
 *Comprehensive overview of the multi-step assessment process*
 
 ### 3. Aptitude Test Interface
