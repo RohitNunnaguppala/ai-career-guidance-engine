@@ -281,12 +281,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Career Counselors**: Insights from professional career guidance experts
 - **Students & Educators**: Feedback from the target user community
 
-## 📞 Support & Contact
-
-- **Documentation**: [Wiki](https://github.com/yourusername/career-ai-platform/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/career-ai-platform/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/career-ai-platform/discussions)
-- **Email**: support@careerai.com
 
 ---
 
