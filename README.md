@@ -86,27 +86,27 @@ Navigate to `http://localhost:3000` to see the application.
 *Comprehensive overview of the multi-step assessment process*
 
 ### 3. Aptitude Test Interface
-![Aptitude Test](screenshots/aptitude-test.png)
+![Aptitude Test](assests/apt.png)
 *Interactive aptitude assessment with real-time progress tracking*
 
 ### 4. Interest Analysis
-![Interest Analysis](screenshots/interest-analysis.png)
+![Interest Analysis](assests/carrer.png)
 *NLP-powered text analysis for extracting career interests and goals*
 
 ### 5. Skills Assessment
-![Skills Assessment](screenshots/skills-assessment.png)
+![Skills Assessment](assests/overview.png)
 *Comprehensive skills mapping with proficiency rating system*
 
 ### 6. Results Dashboard
-![Results Dashboard](screenshots/results-dashboard.png)
+![Results Dashboard](assests/overview.png)
 *Detailed analytics dashboard with personalized insights*
 
 ### 7. Career Recommendations
-![Career Recommendations](screenshots/career-recommendations.png)
+![Career Recommendations](assests/overview.png)
 *AI-powered career matching with Indian education streams*
 
 ### 8. Skill Gap Analysis
-![Skill Gap Analysis](screenshots/skill-gap-analysis.png)
+![Skill Gap Analysis](assests/overview.png)
 *Personalized learning paths and skill development recommendations*
 
 ## 🔧 Core Modules Explained
