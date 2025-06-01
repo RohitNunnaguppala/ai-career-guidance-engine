@@ -94,19 +94,19 @@ Navigate to `http://localhost:3000` to see the application.
 *NLP-powered text analysis for extracting career interests and goals*
 
 ### 5. Skills Assessment
-![Skills Assessment](assests/overview.png)
+![Skills Assessment](assests/skill.png)
 *Comprehensive skills mapping with proficiency rating system*
 
 ### 6. Results Dashboard
-![Results Dashboard](assests/overview.png)
+![Results Dashboard](assests/int.png)
 *Detailed analytics dashboard with personalized insights*
 
 ### 7. Career Recommendations
-![Career Recommendations](assests/overview.png)
+![Career Recommendations](assests/result.png)
 *AI-powered career matching with Indian education streams*
 
 ### 8. Skill Gap Analysis
-![Skill Gap Analysis](assests/overview.png)
+![Skill Gap Analysis](assests/result.png)
 *Personalized learning paths and skill development recommendations*
 
 ## 🔧 Core Modules Explained
