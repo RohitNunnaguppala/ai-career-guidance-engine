@@ -1,11 +1,10 @@
 
-# ai-career-guidance-engine
 
 # 🧠 CareerAI - AI-Driven Career Guidance Platform
 
 An intelligent career guidance platform specifically designed for Indian students and young professionals. CareerAI uses advanced AI algorithms to analyze aptitude, interests, and skills to provide personalized career recommendations aligned with Indian education streams like JEE, NEET, UPSC, CA, and more.
 
-![CareerAI Banner](screenshots/hero-banner.png)
+![CareerAI Banner](assests/home1.png)
 
 ## 🎯 Overview
 
