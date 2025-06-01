@@ -36,13 +36,11 @@ CareerAI addresses the critical need for personalized career guidance in India's
 - **Skill Vectorization**: Embedding-based skill mapping
 
 ### Core Modules
-\`\`\`
-├── Aptitude Estimation (ML Models)
-├── NLP-Based Goal & Interest Extraction
-├── Skill & Experience Mapping
-├── AI-Based Recommendation Engine
-└── Skill Gap Analyzer
-\`\`\`
++-- Aptitude Estimation (ML Models)
++-- NLP-Based Goal & Interest Extraction
++-- Skill & Experience Mapping
++-- AI-Based Recommendation Engine
+`-- Skill Gap Analyzer
 
 ## 🚀 Getting Started
 
@@ -54,7 +52,7 @@ CareerAI addresses the critical need for personalized career guidance in India's
 
 1. **Clone the repository**
 \`\`\`bash
-git clone https://github.com/yourusername/career-ai-platform.git
+git clone https://github.com/RohitNunnaguppala/ai-career-guidance-engine.git
 cd career-ai-platform
 \`\`\`
 
