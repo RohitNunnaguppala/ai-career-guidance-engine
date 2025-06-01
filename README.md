@@ -102,11 +102,11 @@ Navigate to `http://localhost:3000` to see the application.
 *Detailed analytics dashboard with personalized insights*
 
 ### 7. Career Recommendations
-![Career Recommendations](assests/result.png)
+![Career Recommendations](assests/carr.png)
 *AI-powered career matching with Indian education streams*
 
 ### 8. Skill Gap Analysis
-![Skill Gap Analysis](assests/result.png)
+![Skill Gap Analysis](assests/skillana.png)
 *Personalized learning paths and skill development recommendations*
 
 ## 🔧 Core Modules Explained
