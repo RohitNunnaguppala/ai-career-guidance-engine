@@ -36,13 +36,14 @@ CareerAI addresses the critical need for personalized career guidance in India's
 - **Skill Vectorization**: Embedding-based skill mapping
 
 ### Core Modules
-'''
+```
 +-- Aptitude Estimation (ML Models)
 +-- NLP-Based Goal & Interest Extraction
 +-- Skill & Experience Mapping
 +-- AI-Based Recommendation Engine
 `-- Skill Gap Analyzer
-'''
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
